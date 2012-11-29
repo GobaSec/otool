@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>otool</string>
+	<key>contactEmailRot13</key>
+	<string>brian@iamgoba.com</string>
+	<key>contactName</key>
+	<string>Brian Alden</string>
+	<key>source</key>
+	<dict>
+		<key>method</key>
+		<string>git</string>
+		<key>url</key>
+		<string>git://github.com/gobasec/otool.git</string>
+	</dict>
+	<key>ordering</key>
+	<array>
+		<string>2707A5AB-7677-4DBE-BC9E-6D7DB353E21F</string>
+	</array>
+	<key>uuid</key>
+	<string>2A8F8268-A010-47ED-8418-99912D1405EC</string>
+</dict>
+</plist>
